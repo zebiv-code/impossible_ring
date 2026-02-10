@@ -1,0 +1,15 @@
+{
+  "name": "impossible-ring",
+  "version": "1.0.0",
+  "description": "Interactive WebGL M\u00f6bius strip made of discrete wedge-shaped panels with per-face coloring.",
+  "author": "Bill Heyman <bill@heyman.ai> (https://billheyman.com)",
+  "license": "MIT",
+  "homepage": "https://zebiv.com/impossible-ring/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zebiv-code/impossible_ring/"
+  },
+  "scripts": {
+    "start": "npx serve web -l 3000"
+  }
+}
